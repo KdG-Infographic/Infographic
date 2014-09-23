@@ -11,4 +11,14 @@ Team Charter
 - [ ] Meeting voorbereiden (schriftelijk)
 - [ ] Meeting plannen
 - [ ] Contact report maken
-# TEAMLEADER IS GORE KUT INO #
+
+### Analyse van de briefing ###
+
+#### Vragen aan de opdrachtgever: ####
+- Scope onduidelijk, moet de infographic geimplementeerd worden? Brainstorm wel of niet?
+- 
+
+
+
+
+>>>>>>> origin/master
