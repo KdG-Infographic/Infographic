@@ -14,11 +14,5 @@ Team Charter
 
 ### Analyse van de briefing ###
 
-#### Vragen aan de opdrachtgever: ####
+### Vragen aan de opdrachtgever: ###
 - Scope onduidelijk, moet de infographic geimplementeerd worden? Brainstorm wel of niet?
-- 
-
-
-
-
->>>>>>> origin/master
