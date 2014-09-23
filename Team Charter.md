@@ -6,7 +6,7 @@ Team Charter
 - Werkzaamheden
 
 ### TODO: ###
-- [] Analyse briefing
-- [] Meeting voorbereiden (schriftelijk)
-- [] Meeting plannen
-- [] Contact report maken
+- [ ] Analyse briefing
+- [ ] Meeting voorbereiden (schriftelijk)
+- [ ] Meeting plannen
+- [ ] Contact report maken
