@@ -1,6 +1,9 @@
 Infographic
 ===========
 
+### Current page: ###
+[Daarom KdG](http://www.kdg.be/daarom-kdg)
+
 ### Sources: ###
 - [The ultimate guide to create your own infographic](http://piktochart.com/the-ultimate-guide-to-create-your-own-infographic/)
 - [How to Create an Awesome Infographic](http://mashable.com/2012/07/09/how-to-create-an-infographic/)
