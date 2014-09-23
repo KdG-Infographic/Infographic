@@ -25,3 +25,4 @@ Charter
 
 ### Vragen aan de opdrachtgever: ###
 - Scope onduidelijk, moet de infographic geimplementeerd worden? Brainstorm wel of niet?
+- Heeft opdrachtgever zelf reeds ideeën / eisen?
