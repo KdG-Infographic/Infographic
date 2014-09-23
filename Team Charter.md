@@ -1,16 +1,16 @@
 Team Charter
 ===========
 
-### Agreements: ###
-- Samenwerking
-- Werkzaamheden
-
 ### TODO: ###
 - [ ] Analyse briefing
 - [ ] Taakverdeling + verantwoordelijkheden
 - [ ] Meeting voorbereiden (schriftelijk)
 - [ ] Meeting plannen
 - [ ] Contact report maken
+
+### Agreements: ###
+- Samenwerking
+- Werkzaamheden
 
 ### Analyse van de briefing ###
 
