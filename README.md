@@ -9,7 +9,6 @@ Sources:
 - [The marketer's guide to infographics](http://www.visioncritical.com/blog/pretty-and-pretty-useful-how-create-awesome-infographics)
 - [19 Warning Signs Your Infographic Stinks](https://blog.kissmetrics.com/infographic-warning-signs/)
 - [10 Steps To Designing An Amazing Infographic](http://www.fastcodesign.com/1670019/10-steps-to-designing-an-amazing-infographic)
-- 
 
 Tools:
 ------
