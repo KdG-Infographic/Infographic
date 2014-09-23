@@ -22,3 +22,6 @@ Infographic
 ### Tools: ###
 - [5 Online generators](http://www.razorsocial.com/make-your-own-infographic/)
 - [20+ tools](http://www.hongkiat.com/blog/infographic-tools/)
+
+### Markdown Syntax Reference: ###
+[Syntax reference](http://daringfireball.net/projects/markdown/syntax)
