@@ -3,6 +3,8 @@ Infographic
 
 ### Current page: ###
 [Daarom KdG](http://www.kdg.be/daarom-kdg)
+- [Overzicht opleidingen](http://www.kdg.be/opleidingen/alle-opleidingen/results)
+- [Tips studiekeuze](http://www.kdg.be/opleidingen/tips-voor-een-goede-studiekeuze)
 
 ### Sources: ###
 - [The ultimate guide to create your own infographic](http://piktochart.com/the-ultimate-guide-to-create-your-own-infographic/)
