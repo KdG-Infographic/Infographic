@@ -6,6 +6,12 @@ Infographic
 - [Overzicht opleidingen](http://www.kdg.be/opleidingen/alle-opleidingen/results)
 - [Tips studiekeuze](http://www.kdg.be/opleidingen/tips-voor-een-goede-studiekeuze)
 
+### Examples: ###
+- [Future of car sharing](http://futureofcarsharing.com/)
+- [Why your brain craves infographics](http://neomam.com/interactive/13reasons/)
+- [Where Have All The Wildlings Gone? (GoT)](http://www.wherehaveallthewildlingsgone.com/)
+- [Distance to Mars](http://www.distancetomars.com/)
+
 ### Sources: ###
 - [The ultimate guide to create your own infographic](http://piktochart.com/the-ultimate-guide-to-create-your-own-infographic/)
 - [How to Create an Awesome Infographic](http://mashable.com/2012/07/09/how-to-create-an-infographic/)
