@@ -17,7 +17,7 @@ Charter
 ### Agreements: ###
 - Teamleader: Ino Van Winckel
 - Verslagen/griffier: Matthias De Winter
-- Wekelijkse afspraak: 
+- Wekelijkse afspraak: Elke vrijdag omstreeks 14:00, Locatie iRoom
 - Online platform: Github
 - Ain't no Facebook allowed!
 - Te laat = Koffie kopen voor iedereen (en een thee'ke voor de Svekke)
