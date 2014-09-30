@@ -1,6 +1,11 @@
 Infographic
 ===========
 
+### Documents: ###
+- [Team Charter](Team Charter.md)
+- [Project Charter](Project Charter.md)
+- [Meeting](Meeting.md)
+
 ### Current page: ###
 [Daarom KdG](http://www.kdg.be/daarom-kdg)
 - [Overzicht opleidingen](http://www.kdg.be/opleidingen/alle-opleidingen/results)
