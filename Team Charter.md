@@ -30,4 +30,4 @@ Charter
 - Vernieuwde promotie
 
 ### Vragen aan de opdrachtgever: ###
-Zie [Meeting.md](Meeting.md)
+Zie [Meeting](Meeting.md)
