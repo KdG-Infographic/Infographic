@@ -8,7 +8,7 @@ TODO:
 - [ ] Meeting voorbereiden (schriftelijk)
 - [x] Meeting plannen
 - [ ] Contact report maken
-- [ ] Locatie afpsraak maken! Such important
+- [ ] Locatie afspraak maken! Such important
 - [ ] Na meeting met Tom Carman: Verslag doorsturen.
 
 Charter
