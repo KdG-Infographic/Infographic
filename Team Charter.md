@@ -8,15 +8,19 @@ TODO:
 - [ ] Meeting voorbereiden (schriftelijk)
 - [x] Meeting plannen
 - [ ] Contact report maken
+- [ ] Locatie afpsraak maken! Such important
+- [ ] Na meeting met Tom Carman: Verslag doorsturen.
 
 Charter
 -------
 
 ### Agreements: ###
 - Teamleader: Ino Van Winckel
-- Verslagen/griffier: 
+- Verslagen/griffier: Matthias De Winter
 - Wekelijkse afspraak: 
 - Online platform: Github
+- Ain't no Facebook allowed!
+- Te laat = Koffie kopen voor iedereen (en een thee'ke voor de Svekke)
 
 ### Analyse van de briefing ###
 - Vernieuwing van de pagina 'over kdg'
