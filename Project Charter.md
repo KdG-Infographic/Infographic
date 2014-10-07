@@ -21,7 +21,7 @@ De doelgroep zijn personen die een richting in het hoger onderwijs kiezen, dus v
 ### Projectresultaat ###
 
 ### Scope ###
-- Implementatie van de pagina moet door het team zelf gebeuren. De KdG-website is gebouwd met Drupal maar het is niet de bedoeling dat wij Drupal gebruiken voor de Daarom-KdG infographic, de pagina zal dus op een externe redirect staan.
+- Implementatie van de pagina moet door het team zelf gebeuren. De KdG-website is gebouwd met Drupal maar het is niet de bedoeling dat wij Drupal gebruiken voor de Daarom-KdG infographic, de pagina zal dus op een externe redirect staan. (infographic.kdg.be ? )
 - Onderhoud is niet de verantwoordelijkheid van het team, hiervoor zal KdG zelf instaan.
 - Content zal in samenspraak met de opdrachtgever beslist worden, hierover zal nog gebrainstormed worden.
 
