@@ -30,3 +30,5 @@ Er zal een duidelijke taakverdeling gebeuren binnen het team waar elk teammember
 We zullen Github gebruiken als versiecontrole om op een gemakkelijke manier in hetzelfde project te kunnen werken.
 
 ### Risico's & Kansen ###
+- Overplanning is een risico waarbij we riskeren teveel plannen en zo het effectieve werk uit het oog verliezen en in tijdsnood komen.
+- Ongestructureerd werken, wanneer we de structuur verliezen werken we niet meer samen naar één doel en heeft niemand een breed overzicht op het project waardoor de kwaliteit in het gedrang komt.
