@@ -19,6 +19,7 @@ De doelgroep zijn personen die een richting in het hoger onderwijs kiezen, dus v
 ### Concept ###
 
 ### Projectresultaat ###
+15k €~
 
 ### Scope ###
 - Implementatie van de pagina moet door het team zelf gebeuren. De KdG-website is gebouwd met Drupal maar het is niet de bedoeling dat wij Drupal gebruiken voor de Daarom-KdG infographic, de pagina zal dus op een externe redirect staan. (infographic.kdg.be ? )
