@@ -26,5 +26,7 @@ De doelgroep zijn personen die een richting in het hoger onderwijs kiezen, dus v
 - Content zal in samenspraak met de opdrachtgever beslist worden, hierover zal nog gebrainstormed worden.
 
 ### Aanpak ###
+Er zal een duidelijke taakverdeling gebeuren binnen het team waar elk teammember een afgebakende taak krijgt met een bepaalde deadline. Dit proces zullen we iteratief herhalen, op deze manier krijgen we een duidelijk beeld van het werk dat nog moet gebeuren en hoeveel tijd we waarin moeten investeren.
+We zullen Github gebruiken als versiecontrole om op een gemakkelijke manier in hetzelfde project te kunnen werken.
 
 ### Risico's & Kansen ###
