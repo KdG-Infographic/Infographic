@@ -7,14 +7,16 @@ Vragen
 ------
 
 * Moet de infographic door ons geïmplementeerd worden?
+  <strong>Ja. Eigen pagina maken (kdg.be is in Drupal)</strong>
 * Brainstorm
     - Door wie? Wij of opdrachtgever?
-    - Indien opdrachtgever, moeten wij aanwezig zijn? (best wel?)
+     <strong>Georganiseerd door opdrachtgever waarbij het team aanwezig is! Wordt gepland...</strong>
+    - Indien opdrachtgever, moeten wij aanwezig zijn? (best wel?) <strong>Svekke astublief man</strong>
 * Inhoud
     - Hoe krijgen wij de data?
-    - Welke data? Statistieken, videos, eindwerken, info, ...
+     <strong>Brainstorm, opzoekwerk en rondvragen.</strong>
+    - Welke data? Statistieken, videos, eindwerken, info, ... <strong>Studenten, resto, eindwerken, campussen, internationaal,        Brainstorm doet de rest!</strong>
 * Onderhoud
-    - Noodzakelijk?
-    - Hoe? Admin panel of is iemand technisch genoeg om dit in een database aan te passen (phpMyAdmin)?
-* Zijn er al ideën?
-* Zijn er nog extra eisen die nog niet vermeld waren?
+    - Noodzakelijk? <strong>Nein</strong>
+    - Hoe? Admin panel of is iemand technisch om dit in een database aan te passen (phpMyAdmin)?
+     <strong>Aparte Infographic database op KdG server en voila, daar valt da dan natuurlijk aan te passen eh.</strong>
