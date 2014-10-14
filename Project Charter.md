@@ -5,6 +5,8 @@
 ### Uitgangsituatie ###
 De pagina 'Daarom-KdG' moet vervangen worden. Deze pagina is verouderd en niet meer aantrekkelijk voor potentiëel nieuwe studenten.
 
+De site is te statisch en bevat enkel tekst en wat filmjes. Er is niets dat een bezoeker aanspoort om op de site te blijven en verder te lezen. Daarom-KdG zou een uithangbord moeten zijn voor alles positief aan KdG en met de huidige site behaalt het zeker zijn doel niet, zelfs het tegenovergestelde.
+
 ### Doelstellingen ###
 Het doel van de opdracht is om op een aantrekkelijke en creatieve manier mensen
 kennis te laten maken met de verschillende studierichtingen binnen KdG.
