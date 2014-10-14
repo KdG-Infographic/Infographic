@@ -18,10 +18,14 @@ De doelgroep zijn personen die een richting in het hoger onderwijs kiezen, dus v
 
 ### Concept ###
 
-Ons concept is een scrolling one-page website.
+Ons concept is een scrolling one-page website waarin we de look & feel van KdG deels willen behouden maar deze in een aantrekkelijker jasje steken.
+Het is ook de bedoeling om deze infographic interactief te maken, waar de huidige pagina te statisch is.
+Het voorbeeld 'Why your brain craves infographics' portretteert goed waar we ongeveer naartoe willen.
+Met veel animatie en rijke kleuren zal de bezoeker niet verveeld geraken en tot het einde blijven.
 
 ### Projectresultaat ###
-15k €~
+Het eindresultaat zal responsive zijn, dus aangepast voor mobile-bezoekers, de site moet dus klaar zijn om op elke schermresolutie zijn doel te bereiken. Dit omdat er meer en meer mobile gesurfed wordt.
+Aangezien alle content op één pagina getoond moet worden, zullen er veel kleuren en graphics gebruikt moeten worden, we plannen om kleurkeuzes en afbeeldingen zorgvuldig te kiezen en samen te stellen zodat het geheel 'past' zonder overdreven druk te worden.
 
 ### Scope ###
 - Implementatie van de pagina moet door het team zelf gebeuren. De KdG-website is gebouwd met Drupal maar het is niet de bedoeling dat wij Drupal gebruiken voor de Daarom-KdG infographic, de pagina zal dus op een externe redirect staan. (infographic.kdg.be ? )
