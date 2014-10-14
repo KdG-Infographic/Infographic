@@ -6,12 +6,14 @@ Team Charter
 TODO:
 -----
 - [x] Analyse briefing
-- [ ] Taakverdeling + verantwoordelijkheden
-- [ ] Meeting voorbereiden (schriftelijk)
+- [x] Taakverdeling + verantwoordelijkheden
+- [x] Meeting voorbereiden (schriftelijk)
 - [x] Meeting plannen
-- [ ] Contact report maken
-- [ ] Locatie afspraak maken! Such important
+- [x] Contact report maken
+- [x] Locatie afspraak maken! Such important
 - [ ] Na meeting met Tom Carman: Verslag doorsturen.
+- [ ] Afspraak voor Brainstorm met Tom Carman vastleggen.
+- [ ] Presentatie dik OK maken.
 
 Charter
 -------
