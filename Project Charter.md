@@ -33,4 +33,5 @@ We zullen Github gebruiken als versiecontrole om op een gemakkelijke manier in h
 ### Risico's & Kansen ###
 - Risico: Overplanning is een risico waarbij we riskeren teveel plannen en zo het effectieve werk uit het oog verliezen en in tijdsnood komen.
 - Risico: Ongestructureerd werken, wanneer we de structuur verliezen werken we niet meer samen naar één doel en heeft niemand een breed overzicht op het project waardoor de kwaliteit in het gedrang komt.
-- Kans: Meer en meer mensen zitten dagelijks op het internet en gebruiken vaak de computer. Hierdoor kunnen wij meer mensen aanspreken met onze inforgraphic.
+- Kans: Meer en meer mensen zitten dagelijks op het internet en gebruiken vaak de computer. Hierdoor kunnen wij meer mensen aanspreken met onze infographic.
+- Kans: Als team kunnen we uit dit project veel bijleren. Zoals het goed plannen van een project, samenwerken met elkaar en een externe opdrachtgever, en nieuwe technieken toepassen die we niet in ons lessenpakket zien.
