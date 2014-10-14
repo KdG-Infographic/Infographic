@@ -18,6 +18,8 @@ De doelgroep zijn personen die een richting in het hoger onderwijs kiezen, dus v
 
 ### Concept ###
 
+Ons concept is een scrolling one-page website.
+
 ### Projectresultaat ###
 15k €~
 
