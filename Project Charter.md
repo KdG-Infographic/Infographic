@@ -1,18 +1,16 @@
-[<< back](README.md)
-
 ## Project Charter ##
 
 ### Uitgangsituatie ###
 De pagina 'Daarom-KdG' moet vervangen worden. Deze pagina is verouderd en niet meer aantrekkelijk voor potentiëel nieuwe studenten.
 
-De site is te statisch en bevat enkel tekst en wat filmjes. Er is niets dat een bezoeker aanspoort om op de site te blijven en verder te lezen. Daarom-KdG zou een uithangbord moeten zijn voor alles positief aan KdG en met de huidige site behaalt het zeker zijn doel niet, zelfs het tegenovergestelde.
+De site is te statisch en bevat enkel tekst en wat filmpjes. Er is niets dat een bezoeker aanspoort om op de site te blijven en verder te lezen. Daarom-KdG zou een uithangbord moeten zijn voor alles positief aan KdG en met de huidige site behaalt het zeker zijn doel niet, zelfs het tegenovergestelde.
 
 ### Doelstellingen ###
 Het doel van de opdracht is om op een aantrekkelijke en creatieve manier mensen
 kennis te laten maken met de verschillende studierichtingen binnen KdG.
 
 De bedoeling is om de nieuwe pagina in de stijl van een 'Infographic' te maken. Een moderne en stijlvolle manier om data & feiten over te brengen naar de bezoekers.
-De content zal een grote diversiteit hebben, over exacte topics zal er gebrainstormed worden met de opdrachtgever.
+De content zal een grote diversiteit hebben, over exacte topics zal er gebrainstormd worden met de opdrachtgever.
 
 ### Stakeholders & Doelgroepen ###
 Zowel het team als de opdrachtgever zijn de stakeholders van dit project. Communicatie met de opdrachtgever zal verlopen via meetings en mail. De opdrachtgever zal ook betrokken worden bij het beslissen over de content die op de pagina zal komen.
@@ -26,13 +24,13 @@ Het voorbeeld 'Why your brain craves infographics' portretteert goed waar we ong
 Met veel animatie en rijke kleuren zal de bezoeker niet verveeld geraken en tot het einde blijven.
 
 ### Projectresultaat ###
-Het eindresultaat zal responsive zijn, dus aangepast voor mobile-bezoekers, de site moet dus klaar zijn om op elke schermresolutie zijn doel te bereiken. Dit omdat er meer en meer mobile gesurfed wordt.
+Het eindresultaat zal responsive zijn, dus aangepast voor mobile-bezoekers, de site moet dus klaar zijn om op elke schermresolutie zijn doel te bereiken. Dit omdat er meer en meer mobile gesurft wordt.
 Aangezien alle content op één pagina getoond moet worden, zullen er veel kleuren en graphics gebruikt moeten worden, we plannen om kleurkeuzes en afbeeldingen zorgvuldig te kiezen en samen te stellen zodat het geheel 'past' zonder overdreven druk te worden.
 
 ### Scope ###
 - Implementatie van de pagina moet door het team zelf gebeuren. De KdG-website is gebouwd met Drupal maar het is niet de bedoeling dat wij Drupal gebruiken voor de Daarom-KdG infographic, de pagina zal dus op een externe redirect staan. (infographic.kdg.be ? )
 - Onderhoud is niet de verantwoordelijkheid van het team, hiervoor zal KdG zelf instaan.
-- Content zal in samenspraak met de opdrachtgever beslist worden, hierover zal nog gebrainstormed worden.
+- Content zal in samenspraak met de opdrachtgever beslist worden, hierover zal nog gebrainstormd worden.
 
 ### Aanpak ###
 Er zal een duidelijke taakverdeling gebeuren binnen het team waar elk teammember een afgebakende taak krijgt met een bepaalde deadline. Dit proces zullen we iteratief herhalen, op deze manier krijgen we een duidelijk beeld van het werk dat nog moet gebeuren en hoeveel tijd we waarin moeten investeren.
