@@ -4,7 +4,7 @@ Infographic
 ### Documents: ###
 - [Team Charter](Team Charter.md)
 - [Project Charter](Project Charter.md)
-- [Meeting](Meeting.md)
+- [Meetins](Meetings.md)
 - [Presentatie] (https://docs.google.com/presentation/d/13ckkqVXyGh82gZifVd11x2AtAvp1j_o5w87Xj-OCC1Y/edit#slide=id.g3e603ddba_072)
 
 ### Current page: ###
