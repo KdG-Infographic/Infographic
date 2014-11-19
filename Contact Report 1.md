@@ -1,9 +1,3 @@
-[<< back](README.md)
-
-<strong>Door te sturen naar Tom Carman! <- Ino</strong>
-
-Meeting
-=======
 
 Vragen
 ------
