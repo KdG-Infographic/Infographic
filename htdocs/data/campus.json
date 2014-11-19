@@ -1,0 +1,14 @@
+{
+    "groenplaats": {
+        "medewerkers": 0,
+        "studenten": 0,
+        "fietsers": 0.0,
+        "openbaar_vervoer": {
+            "studenten": 0.0,
+            "verbindingen": 0,
+            "km": 0
+        },
+        "lokalen": 0,
+        "stoelen": 0
+    }
+}
