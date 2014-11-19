@@ -1,0 +1,18 @@
+{
+    "studenten": {
+        "man": 0,
+        "vrouw": 0,
+        "op_kot": 0
+    },
+    "medewerkers": {
+        "man": 0,
+        "vrouw": 0
+    },
+    "reisafstand": 0,
+    "straat_meeste_studenten": "Bredabaan, Merksem",
+    "nationaliteiten": {
+        "belg": 0,
+        "duits": 0,
+        "frans": 0
+    }
+}
