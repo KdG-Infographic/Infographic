@@ -1,0 +1,21 @@
+// required
+@import "core/normalize";
+@import "fonts";
+@import "core/bourbon/bourbon";
+
+// vars
+$mainFont: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "HelveticaNeue", $helvetica;
+$headingFont: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "HelveticaNeue", $helvetica;
+
+$mainColor: #FFF;
+$accentColor: #00F;
+$textColor: #000;
+
+$navHeight: 64px;
+$footerHeight: 48px;
+
+// core
+@import "core";
+
+// app
+@import "components";

@@ -1,0 +1,61 @@
+// core
+@import "core/functions";
+@import "core/mixins";
+@import "core/components";
+
+*{
+    outline: none;
+    overflow: visible;
+    box-sizing: border-box;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body{
+    font-family: $mainFont;
+    background: $mainColor;
+    text-rendering: optimizeLegibility;
+}
+
+#{headings()}{
+    font-family: $headingFont;
+}
+
+#container{
+    min-height: 100%;
+    position: relative;
+}
+
+main{
+    padding-bottom: $footerHeight;
+}
+
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: $footerHeight;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+    *zoom: 1;
+}
