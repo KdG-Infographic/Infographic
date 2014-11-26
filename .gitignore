@@ -4,6 +4,7 @@
 .sass-cache
 *.codekit
 **.idea**
+index.html
 
 Thumbs.db
 ehthumbs.db
