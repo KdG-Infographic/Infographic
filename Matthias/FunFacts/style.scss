@@ -11,18 +11,9 @@ $font: 'Open Sans', sans-serif;
 
 body {
     background-color: $kdg-green;
-    .funfacts {
-        .title {
-            h1 {
-                font-size: 750%;
-                width: 60%;
-                text-align: center;
-                margin: 0 auto;
-                margin-top: 10%;
-            }
-        }
+}
 
-    }
+.wrapper {
 }
 
 .funfacts {
@@ -37,7 +28,7 @@ body {
     }
     .circle-big {
         margin: 0 auto;
-        margin-top: 20%;
+        margin-top: 40%;
         width: 300px;
         height: 300px;
         align-content: center;
@@ -79,22 +70,39 @@ body {
         width: 60%;
         margin: 0 auto;
     }
-}
-
-.youngestText {
-    margin-top: 5%;
-    p {
-        width: 100%;
-        text-align: center;
-        font-size: 300%;
+    
+    .youngestText {
+        margin-top: 5%;
+        p {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+        }
     }
-}
-.youngest {
-    display:flex;
-    .baby {
-        margin: 0 auto;
-        width: 500px;
-        height: 500px;
-        
+    .youngest {
+        display:flex;
+        .baby {
+            margin: 0 auto;
+            width: 500px;
+            height: 500px;
+        }
+    }
+    
+    .oldestText {
+        margin-top: 5%;
+        p {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+        }
+    }
+    
+    .oldest {
+        display: flex;
+        .elderly {
+            margin: 0 auto;
+            width: 500px;
+            height: 500px;
+        }
     }
 }
