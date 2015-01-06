@@ -9,19 +9,19 @@ body {
     line-height: 1.35em;   
     padding: 40px 0;
     font-size: 1.48em;
-    background: url(img/border.png) bottom center repeat-x;
+    background: url(../img/border.png) bottom center repeat-x;
     
     .left {
         width: 50%;
         float: left;
         position: relative;
         padding-top: 168px;
-        background-image: url(img/revarrow.svg);
+        background-image: url(../img/revarrow.svg);
         background-repeat: no-repeat;
         background-position: right;
         
         #students {
-            background: url(img/Students.svg) 318px 170px;
+            background: url(../img/Students.svg) 318px 170px;
             height: 170px;
             width: 318px;
             top: 0;
@@ -39,12 +39,12 @@ body {
         float: left;
         position: relative;
         padding-top: 168px;
-        background-image: url(img/arrow.svg);
+        background-image: url(../img/arrow.svg);
         background-repeat: no-repeat;
         background-position: left;
         
         #workers {
-            background: url(img/Workers.svg);
+            background: url(../img/Workers.svg);
             height: 170px;
             width: 318px;
             top: 0;
@@ -60,7 +60,7 @@ body {
     &#kotstudenten {
         height: 280px;
         .media {
-            background: url(img/house.svg);
+            background: url(../img/house.svg);
             background-size: cover;
             height: 200px;
             width: 200px;
@@ -76,7 +76,7 @@ body {
     }
     &#road {
         .media {
-            background: url(img/roadpiece.svg) repeat-x;
+            background: url(../img/roadpiece.svg) repeat-x;
             height: 300px;
             width: 3000px;
             
@@ -92,7 +92,7 @@ body {
     }
     &#kilometers {
         .media {
-            background: url(img/wheel.svg) no-repeat 100px 100px;
+            background: url(../img/wheel.svg) no-repeat 100px 100px;
             opacity:0;
             -webkit-animation:spin 4s linear infinite;
             -moz-animation:spin 4s linear infinite;
