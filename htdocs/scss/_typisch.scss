@@ -8,6 +8,14 @@ $timeline-animation-duration: 2s;
         margin-top: 150px;
     }
     
+    h2{
+        margin: 2em 0;
+    }
+    
+    h3{
+        margin: 1em 0;
+    }
+    
     .timeline{
         width: 80%;
         margin: auto;
@@ -174,7 +182,7 @@ $timeline-animation-duration: 2s;
                 height: 100%;
                 background: $kdg-green;
                 border-radius: 3px;
-                transition: width 1s ease 1s;
+                transition: width 1s ease 2s;
                 
                 *{
                     display: none;
