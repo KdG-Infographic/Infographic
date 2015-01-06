@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800);
+
+$kdg-green: #c1d82f;
+$font: 'Open Sans', sans-serif;
+
+.waarden_container {
+    width: 960px;
+    font-family: $font;
+    margin: 0 auto;
+    
+    flex-direction: column;
+    
+    .waarden_title {
+        font-size: 100%;
+    }
+    
+    .student {
+        margin-top: 20%;
+    }
+}
+
+.waarden_flex { display: flex; }

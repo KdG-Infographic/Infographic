@@ -142,3 +142,40 @@ body {
         }
     }
 }
+
+.waarden {
+    margin-top: 10%;
+    .title {
+        font-weight: bold;
+    }
+    
+    .student {
+        display: flex;
+        justify-content: center;
+        margin-top: 5%;
+        p {
+            font-size: 300%;
+        }
+        #lightbulb {
+            width: 400px;
+            height: 400px;
+            margin-right: 5%;
+        }
+    }
+    
+    .resultaten {
+        display: flex;
+        justify-content: center;
+        margin-top: 5%;
+        p {
+            font-size: 300%;
+        }
+    }
+}
+
+.smallText {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+            margin-top: 3%;
+}
