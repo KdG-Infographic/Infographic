@@ -1,5 +1,4 @@
 **/css/**
-*.min.js
 *.min.js.map
 .sass-cache
 *.codekit
