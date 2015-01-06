@@ -24,6 +24,9 @@ $footerHeight: 48px;
 // @import "demografie"; //file does not exist???
 @import "trajecten";
 
+//funfacts & waarden
+@import "_funfacts";
+
 //clearfix
 .clearfix:after {
     content: ".";
