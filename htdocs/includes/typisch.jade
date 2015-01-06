@@ -1,0 +1,52 @@
+.main-wrapper
+    #typisch.inner
+        h1 Typisch KdG
+        section#periodesysteem
+            h2 Periodesysteem
+            .timeline
+                .periodes
+                    .wrapper
+                        - for (var i = 0; i < 4; i++)
+                            .periode
+                                .markers
+                                    - for (var x = 0; x < 8; x++)
+                                        .marker
+                                .line
+                                    .les
+                                    .exaam
+                .txt
+                    .periodes 4 periodes per jaar
+                    .les 6 weken les
+                    .exaam 2 weken evaluatie
+        section#wrm
+            h2 Studenten kozen vooral KdG vanwege
+            .reason
+                h3 Het periodesysteem
+                .progress.periodesysteem
+                    .val
+                        .waarde(data-insert="waaromkdg.periodesysteem")
+                        .totaal(data-insert="waaromkdg.totaal")
+            .reason
+                h3 De inhoud van het curriculum van de opleidingen
+                .progress.inhoud
+                    .val
+                        .waarde(data-insert="waaromkdg.inhoud")
+                        .totaal(data-insert="waaromkdg.totaal")
+            .reason
+                h3 De beroepskansen
+                .progress.beroepskansen
+                    .val
+                        .waarde(data-insert="waaromkdg.beroepskansen")
+                        .totaal(data-insert="waaromkdg.totaal")
+            .reason
+                h3 De sterke reputatie van de opleiding
+                .progress.reputatie
+                    .val
+                        .waarde(data-insert="waaromkdg.reputatie")
+                        .totaal(data-insert="waaromkdg.totaal")
+            .reason
+                h3 Ik wilde in antwerpen studeren
+                .progress.locatie
+                    .val
+                        .waarde(data-insert="waaromkdg.locatie")
+                        .totaal(data-insert="waaromkdg.totaal")
