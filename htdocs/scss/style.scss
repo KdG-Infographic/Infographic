@@ -31,3 +31,13 @@ $footerHeight: 0;
 .clearfix{
     @include clearfix;
 }
+
+// One Style to rule them all
+// Humans fear the KdG Green since the beginning of time
+// This year...
+// ...
+// Nothing changed!
+
+body {
+    background: $kdg-green;
+}
