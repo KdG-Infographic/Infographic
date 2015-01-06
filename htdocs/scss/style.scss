@@ -11,8 +11,8 @@ $mainColor: #FFF;
 $accentColor: #00F;
 $textColor: #000;
 
-$navHeight: 64px;
-$footerHeight: 48px;
+$navHeight: 0;
+$footerHeight: 0;
 
 // core
 @import "core";
@@ -21,17 +21,14 @@ $footerHeight: 48px;
 @import "components";
 
 //sheets
-// @import "demografie"; //file does not exist???
+@import "demografie";
 @import "trajecten";
+@import "typisch";
 
 //funfacts & waarden
 @import "_funfacts";
 
 //clearfix
-.clearfix:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
+.clearfix{
+    @include clearfix;
 }
