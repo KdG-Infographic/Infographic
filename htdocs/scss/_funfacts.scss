@@ -1,0 +1,181 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800);
+
+$kdg-green: #c1d82f;
+$font: 'Open Sans', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: $font;
+}
+
+body {
+    background-color: $kdg-green;
+}
+
+.wrapper {
+}
+
+.funfacts {
+    .circle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        background-color: black;
+        box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.76);
+    }
+    #bigCircle {
+        margin-top: 40%;
+    }
+    .circle-big {
+        margin: 0 auto;
+        width: 300px;
+        height: 300px;
+        align-content: center;
+        p { color: white; }
+        h3 { color: white; }
+    }
+    .circle-small {
+        margin: 0 auto;
+        margin-top: 2%;
+        width: 150px;
+        height: 150px;
+    }
+    #connector {
+        margin: 0 auto;
+        margin-top: 10%;
+
+        width: 50px;
+        height: 100px;
+        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        
+        .dot {
+            border-radius: 50%;
+            background-color: black;
+            width: 20px;
+            height: 20px;
+        }
+    }
+    #smallCircleSubtitle {
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 300%;
+        width: 60%;
+        margin: 0 auto;
+    }
+    
+    .youngestText {
+        margin-top: 5%;
+        p {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+        }
+    }
+    .youngest {
+        display:flex;
+        .baby {
+            margin: 0 auto;
+            width: 500px;
+            height: 500px;
+        }
+    }
+    
+    .oldestText {
+        margin-top: 5%;
+        p {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+        }
+    }
+    
+    .oldest {
+        display: flex;
+        .elderly {
+            margin: 0 auto;
+            width: 500px;
+            height: 500px;
+        }
+    }
+    .wifiIcon {
+        display: flex;
+        img {
+            width: 500px;
+            height: 500px;
+            margin: 0 auto;
+        }
+    }
+    
+    .wifiText {
+        p {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+        }
+    }
+    
+    #classRoom {
+        background-image:url(../img/classroom.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 500px 500px;
+        margin-top: 10%;
+        width: 750px;
+        height: 750px;
+    }
+    .classRoomText {
+        p {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+            margin-top: 3%;
+        }
+    }
+}
+
+.waarden {
+    margin-top: 10%;
+    .title {
+        font-weight: bold;
+    }
+    
+    .student {
+        display: flex;
+        justify-content: center;
+        margin-top: 5%;
+        p {
+            font-size: 300%;
+        }
+        #lightbulb {
+            width: 400px;
+            height: 400px;
+            margin-right: 5%;
+        }
+    }
+    
+    .resultaten {
+        display: flex;
+        justify-content: center;
+        margin-top: 5%;
+        p {
+            font-size: 300%;
+        }
+    }
+}
+
+.smallText {
+            width: 100%;
+            text-align: center;
+            font-size: 300%;
+            margin-top: 3%;
+}
