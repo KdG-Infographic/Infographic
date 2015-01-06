@@ -1,22 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800);
-
-$kdg-green: #c1d82f;
-$font: 'Open Sans', sans-serif;
-
-* {
-    margin: 0;
-    padding: 0;
-    font-family: $font;
-}
-
-body {
-    background-color: $kdg-green;
-}
-
-.wrapper {
-}
-
 .funfacts {
+    background: $kdg-green;
+    
     .circle {
         display: flex;
         flex-direction: column;

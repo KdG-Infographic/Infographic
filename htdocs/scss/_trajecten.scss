@@ -1,10 +1,9 @@
 #trajacten{
-    background: #A4BA11;
+    background: $kdg-green;
     text-align: center;
-    font-size: 1.85vw;
+    font-size: 2.2vw;
     padding: 120px 0;
     overflow: hidden;
-    border-radius: 50px;
     
     #{headings()}{
         text-align: center;

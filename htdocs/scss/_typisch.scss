@@ -1,6 +1,9 @@
 $timeline-animation-duration: 2s;
 
 #typisch{
+    width: 90%;
+    margin: auto;
+    
     .timeline{
         width: 80%;
         margin: auto;
@@ -80,7 +83,7 @@ $timeline-animation-duration: 2s;
             
             .les{
                 width: 75%;
-                background: #A4BA11;
+                background: $kdg-green;
             }
             
             .exaam{
@@ -165,7 +168,7 @@ $timeline-animation-duration: 2s;
             .val{
                 width: 0%;
                 height: 100%;
-                background: #A4BA11;
+                background: $kdg-green;
                 border-radius: 3px;
                 transition: width 1s ease 1s;
                 
