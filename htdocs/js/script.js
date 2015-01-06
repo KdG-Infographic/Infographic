@@ -55,7 +55,7 @@ $(document).ready(function(){
         }, 2000);
     });
     
-    $('#wrm').bind('inview', function(){
+    $('#wrm .locatie').bind('inview', function(){
         $("#wrm .progress").each(function(){
             console.log($(this));
             var val = $(this).find('.waarde').first().html();
