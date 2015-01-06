@@ -60,7 +60,7 @@ $(document).ready(function(){
             console.log($(this));
             var val = $(this).find('.waarde').first().html();
             var total = $(this).find('.totaal').first().html();
-
+            
             $(this).find('.val').first().css({"width": (val/total * 100) + "%"});
         });
     });
