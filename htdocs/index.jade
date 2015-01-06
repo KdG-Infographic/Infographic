@@ -2,11 +2,12 @@ doctype html
 html
     head
         title Infographic
-        include ./includes/skrollr.min.js
-        include ./includes/scripts.jade
+        script(src='./includes/skrollr.min.js')
+        script(src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js')
+        link(href='./css/style.css', rel='stylesheet')
     body
         main
-            include ./includes/demografie.html
+            include ./includes/demo.html
             
 
 <!-- Free icons from Freepik: must be mentioned! <div>Icons made by Freepik, Scott de Jonge, OCHA from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>         is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div> -->

@@ -14,7 +14,6 @@ $textColor: #000;
 $navHeight: 64px;
 $footerHeight: 48px;
 
-
 // core
 @import "core";
 
@@ -22,4 +21,13 @@ $footerHeight: 48px;
 @import "components";
 
 //sheets
-@import 
+@import "demografie";
+
+//clearfix
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
