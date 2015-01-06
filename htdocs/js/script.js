@@ -19,10 +19,13 @@ function setData(){
     });
 }
 
+var s;
 var data = {};
-var sources = ["campus", "demografie"];
+var sources = ["campus", "demografie", "studietrajecten"];
 
 $(document).ready(function(){
+    s = skrollr.init(smoothScrolling=true);
+    
     $.each(sources, function(k,v){
         getData(v).done(function(d){
             data[v] = d;

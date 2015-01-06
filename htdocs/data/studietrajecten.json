@@ -1,0 +1,9 @@
+{
+    "trajecten": 70,
+    "studiegebieden": 6,
+    "afstudeerrichtingen": 36,
+    "bachelors": 16,
+    "masters": ["Beeldende Kunsten"],
+    "banaba": 4,
+    "postgraduaten": 8
+}

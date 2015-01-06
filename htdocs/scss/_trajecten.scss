@@ -1,0 +1,32 @@
+#trajacten{
+    text-align: center;
+    font-size: 2em;
+    
+    #{headings()}{
+        text-align: center;
+        margin: .3em 2em .3em 2em;
+    }
+    
+    h1{
+        margin: .2em;
+    }
+    
+    .wrap #{headings()}{
+        display: inline-block;
+    }
+    
+    .left{
+        position: relative;
+        left: -120px;
+    }
+    
+    .sleft{
+        position: relative;
+        left: -40px;
+    }
+    
+    .right{
+        position: relative;
+        left: 75px;
+    }
+}
