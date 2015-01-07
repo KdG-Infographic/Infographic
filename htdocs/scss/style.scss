@@ -32,3 +32,6 @@ $footerHeight: 0;
 .clearfix{
     @include clearfix;
 }
+main{
+    overflow: hidden;
+}
