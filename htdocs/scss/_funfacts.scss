@@ -1,5 +1,6 @@
 .funfacts {
     background: $kdg-green;
+    padding-bottom: 10%;
     
     .circle {
         display: flex;
@@ -129,7 +130,7 @@
 }
 
 .waarden {
-    margin-top: 10%;
+    margin: 10% auto;
     .title {
         font-weight: bold;
     }

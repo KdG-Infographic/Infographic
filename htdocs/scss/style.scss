@@ -32,6 +32,12 @@ $footerHeight: 0;
 .clearfix{
     @include clearfix;
 }
+
 main{
     overflow: hidden;
+}
+
+#drm{
+    text-align: center;
+    font-size: 5vw;
 }
